@@ -1,0 +1,4 @@
+LitecoinApplet
+==============
+
+Litecoin Applet
